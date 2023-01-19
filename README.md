@@ -1,4 +1,4 @@
-### I am a full-stack software developer who's passionate about solving real-world problems by using technology in a meaningful way. 
+### I am a full-stack software developer who's passionate about solving real-world problems by using technology in a meaningful way 
 
 <!--
 **umairm47/umairm47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
