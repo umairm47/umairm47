@@ -1,5 +1,5 @@
 <!--I am a full-stack software developer who's passionate about solving real-world problems by using technology in a meaningful way -->
-<div id="header" align="center">
+
 <h1>
   Hi, how are you?
 </h1>
