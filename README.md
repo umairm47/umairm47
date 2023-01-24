@@ -2,10 +2,10 @@
 <div id="header" align="center">
 <div id="badges" align="center">
    <a href= "https://www.twitter.com/UmairCodes">
- <img src= "https://img.shields.io/badge/Twitter-purple?logo=twitter&logoColor=white" alt= "Twitter Badge">
+ <img src= "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt= "Twitter Badge">
   </a>
   <a href="https://www.linkedin.com/in/mumairm/">
- <img src= "https://img.shields.io/badge/Linkedin-purple?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
+ <img src= "https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
 </div>
   <img src= "https://komarev.com/ghpvc/?username=umairm47">
 <h1>
