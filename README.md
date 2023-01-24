@@ -1,11 +1,11 @@
 <!--I am a full-stack software developer who's passionate about solving real-world problems by using technology in a meaningful way -->
-
+<div id="header" align="center">
 <h1>
   Hi, how are you?
 </h1>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=4287f5&lines=I'm+a+Full-Stack+Developer)](https://git.io/typing-svg)
-  
+  </div>
   <div align= "center">
     <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width= "620" height= "500"/>
   </div>
@@ -27,9 +27,9 @@
   </a>
   <a href="https://www.linkedin.com/in/mumairm/">
  <img src= "https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
-</div>
-  <img src= "https://komarev.com/ghpvc/?username=umairm47">
 
+  <img src= "https://komarev.com/ghpvc/?username=umairm47">
+</div>
   </p>
  
   <h2 align="center"> Languages and Tools:</h2>
