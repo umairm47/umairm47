@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/mumairm/">
  <img src= "https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
     </div>
-  <div>
+  <div align="center">
   <img src= "https://komarev.com/ghpvc/?username=umairm47">
 </div>
   </p>
