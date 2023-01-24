@@ -1,7 +1,6 @@
 ### I am a full-stack software developer who's passionate about solving real-world problems by using technology in a meaningful way 
 
-<div id="header" align="center">
-  <img src= "https://media.giphy.com/media/p7bz7zIIW2dJemYweL/giphy.gif" width="100" height= "100">
+
 <div id="badges" align="center">
    <a href= "https://www.twitter.com/UmairCodes">
  <img src= "https://img.shields.io/badge/Twitter-purple?logo=twitter&logoColor=white" alt= "Twitter Badge">
