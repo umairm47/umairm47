@@ -51,9 +51,11 @@
 </p>
   
 ---
+<div align="center">
   <h2 align= "center"> GitHub Stats </h2>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=umairm47&theme=shades-of-purple&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+  </div>
 <!--
 **umairm47/umairm47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
