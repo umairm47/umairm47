@@ -20,14 +20,15 @@
 
 - 💬 Ask me about my transition from Electrical Engineering, interest in trading, or my love of books.
 
-- 📫 You can reach me through my social links that are listed above 
+- 📫 You can reach me through my social links that are listed below 
 <div id="badges" align="center">
    <a href= "https://www.twitter.com/UmairCodes">
  <img src= "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt= "Twitter Badge">
   </a>
   <a href="https://www.linkedin.com/in/mumairm/">
  <img src= "https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
-
+    </div>
+  <div>
   <img src= "https://komarev.com/ghpvc/?username=umairm47">
 </div>
   </p>
